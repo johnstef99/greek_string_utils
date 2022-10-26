@@ -6,6 +6,6 @@ void main() {
   print(may.removeGreekEmphasis()); // Μαιος
 
   may = 'Μαΐου';
-  print(may.toGreekUpperCase()); // ΜΑΙΟΥ
+  print(may.toGreekUpperCase()); // ΜΑΪΟΥ
   print(may.removeGreekDieresis()); // Μαίου
 }
