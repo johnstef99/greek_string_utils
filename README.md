@@ -1,3 +1,6 @@
+[![pub version](https://img.shields.io/pub/v/greek_string_utils)](https://pub.dev/packages/greek_string_utils)
+[![pub publisher](https://img.shields.io/pub/publisher/greek_string_utils)](https://pub.dev/publishers/johnstef.com/packages)
+
 ## Usage
 
 ```dart
