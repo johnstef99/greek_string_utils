@@ -1,0 +1,12 @@
+name: greek_string_utils
+description: A set of utilities for string with greek letters
+version: 1.0.0
+homepage: https://github.com/johnstef99/greek_string_utils
+
+environment:
+  sdk: '>=2.18.1 <3.0.0'
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
+  very_good_analysis: ^3.1.0
